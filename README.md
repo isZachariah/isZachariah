@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**isZachariah/isZachariah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# => ** isZachariah/Zachariah ** #
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* I got a degree from the UW in studio art before finding programming. I realized that in computer science was everything I loved about art with the addition of UTILITY. I love learning and being challenged everyday and coding gives me that. I and am currently in school at WCC studying software engineering. I look forward to solving real world problems and working with other people.*
+
+Here are some links:
+
+[Scientific Calculator](https://iszachariah.github.io/scientific-calculator/)
+[Rock Paper Scissors](https://iszachariah.github.io/RockPaperScissors-react/)
+
+I work with a variety of languages and frameworks including but not limited to:
+- TypeScript/ JavaScript
+- Rust
+- Kotlin
+- Java
+
+
+
+
