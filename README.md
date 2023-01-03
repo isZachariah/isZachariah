@@ -7,7 +7,7 @@ _I got a degree from the UW in studio art before finding programming. I realized
 #### Here are some links to projects of mine:
 
 + [Scientific Calculator](https://iszachariah.github.io/scientific-calculator/)
-+ [Rock Paper Scissors](https://iszachariah.github.io/rockpaperscissors-/))
++ [Rock Paper Scissors](https://iszachariah.github.io/rockpaperscissors-/)
 
 #### I work with a variety of languages and frameworks including but not limited to:
 - TypeScript/ JavaScript
