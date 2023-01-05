@@ -10,10 +10,14 @@ _I got a degree from the UW in studio art before finding programming. I realized
 + [Rock Paper Scissors](https://iszachariah.github.io/rockpaperscissors-/)
 
 #### I work with a variety of languages and frameworks including but not limited to:
-- TypeScript/ JavaScript
-- Rust
+- TypeScript/ JavaScript | React | Nextjs
+- CSS (I am a fan of tailwindcss) and HTML 
+- C++
+- Python
 - Kotlin
 - Java
+
+I've played around with a handful of other languages as well, including Rust, Go, and Julia.
 
 #### Contact Me:
 - [LinkedIn](https://www.linkedin.com/in/zachariahmagee/)
