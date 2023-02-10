@@ -1,14 +1,10 @@
 
 
-## -> __isZachariah/Magee__
+## -> __Zachariah/Magee__
 
 _Highly motivated full-stack developer with a strong background in creating high-performing, scalable solutions across web, native, and embedded platforms. Proficient in C++, Python, TypeScript, and other languages, with a proven ability to quickly learn and effectively utilize new technologies. Dedicated to delivering innovative solutions through my curiosity-driven and collaborative approach._
 
 ### Projects
-
-+ [ADS1210 Driver](https://github.com/isZachariah/ADS1210)
-
-  -   This driver provides an easy-to-use interface for working with the ADS1210 analog-to-digital converter using the Arduino framework and the SPI protocol. The driver is designed to be highly customizable, allowing the user to take full advantage of the features of the ADS1210.
 
 + unManageable
 
